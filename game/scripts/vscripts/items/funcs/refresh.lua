@@ -1,5 +1,5 @@
 local not_refreshing_items = {
-	"item_black_king_bar" = 1,
+	"item_black_king_bar" == 1,
 }
 
 function Refresh(event)
